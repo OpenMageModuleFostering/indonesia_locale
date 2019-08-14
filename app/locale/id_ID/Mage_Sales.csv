@@ -13,7 +13,7 @@
 * Required Fields,* Bidang Yang Harus Diisi
 -- Please Select --,- Silahkan Pilih -
 -- Please Select Billing Agreement--,- Silakan Pilih Penagihan Agreement--
-About This Order:,Tentang Orde ini:
+About This Order:,Tentang Order ini:
 About This Profile:,Tentang Profil:
 About Your Invoice,Tentang Faktur Anda
 About Your Order,Tentang Pesanan Anda
@@ -28,7 +28,7 @@ Activate,Mengaktifkan
 Active,Aktif
 Add,Menambahkan
 Add New Address,Add New Alamat
-Add Order Comments,Tambahkan Orde Komentar
+Add Order Comments,Tambahkan Order Komentar
 Add Package,Tambahkan Paket
 Add Products,Tambahkan Produk
 Add Selected Product(s) to Option,Tambah Produk Terpilih  ke Option
@@ -148,12 +148,12 @@ Country,Negara
 Coupons,Kupon
 Create,Membuat
 Create New Customer,Buat Pelanggan Baru
-Create New Order,Buat Orde Baru
-Create New Order Status,Buat Status Orde Baru
-Create New Order for %s,Buat Orde Baru untuk%s
-Create New Order for %s in %s,Buat Orde Baru untuk%s di%s
-Create New Order for New Customer,Buat Orde Baru untuk Pelanggan Baru
-Create New Order for New Customer in %s,Buat Orde Baru untuk Pelanggan Baru di%s
+Create New Order,Buat Order Baru
+Create New Order Status,Buat Status Order Baru
+Create New Order for %s,Buat Order Baru untuk%s
+Create New Order for %s in %s,Buat Order Baru untuk%s di%s
+Create New Order for New Customer,Buat Order Baru untuk Pelanggan Baru
+Create New Order for New Customer in %s,Buat Order Baru untuk Pelanggan Baru di%s
 Create New Status,Buat Status Baru
 Create Packages,Buat Paket
 Create Shipment,Buat Pengiriman
@@ -212,10 +212,10 @@ Discount,Diskon
 Discount (%s),Diskon (%s)
 Discount Amount,Jumlah diskon
 Display Order ID in Header,Tampilan Order ID di Header
-Edit,Mengedit
-Edit Order #%s,Mengedit Pesanan #%s
+Edit,Ubah
+Edit Order #%s,Ubah Pesanan #%s
 Edit Order %s %s Address,Mengedit Orde%s%s Alamat
-Edit Order Status,Status mengedit Pesanan
+Edit Order Status,Status Ubah Pesanan
 Email,Email
 Email Address,Alamat Email
 Email Copy of Credit Memo,Email Fotokopi Memo Kredit
@@ -254,9 +254,9 @@ Get Payment Update,Dapatkan Pembayaran Perbarui
 Get Update,Dapatkan Pembaruan
 Get shipping methods and rates,Dapatkan metode dan tarif pengiriman
 Gift Message,Hadiah Pesan
-Gift Message for This Order,Pesan hadiah untuk Orde ini
+Gift Message for This Order,Pesan hadiah untuk Order ini
 Gift Message for the Entire Order,Pesan hadiah untuk Seluruh Orde
-Gift Message for this Order,Pesan hadiah untuk Orde ini
+Gift Message for this Order,Pesan hadiah untuk Order ini
 Gift Options,Hadiah Pilihan
 Girth,Mengelilingi
 Go to Home Page,Pergi ke Halaman
@@ -264,7 +264,7 @@ Grand Total,Grand Total
 Grand Total to be Charged,Grand Total akan Dibebankan
 Guest,Tamu
 Height,Tinggi
-Hide Customer IP,Sembunyikan Pelanggan IP
+Hide Customer IP,Sembunyikan IP Pelanggan 
 Hold,Memegang
 Hold action is not available.,Aksi Tahan tidak tersedia.
 Hold order,Agar Tahan
@@ -294,7 +294,7 @@ Invalid value(s) for Qty to Ship,Nilai tidak valid  untuk Qty ke Kapal
 Invoice,Faktur
 Invoice #,Faktur #
 Invoice # ,Faktur #
-Invoice #%1$s | %2$s | %4$s (%3$s),Faktur #% 1 $ s |% $ 2 s |% 4 $ s (% 3 $ s)
+Invoice #%1$s | %2$s | %4$s (%3$s),Faktur #%1$s |%$2s |%4$s (%3$s)
 Invoice #%s,Faktur #%s
 Invoice Comment Email Sender,Komentar Faktur Email Sender
 Invoice Comment Email Template,Komentar faktur Template Email
@@ -340,8 +340,8 @@ Last Name,Nama Terakhir
 Last Ordered Items,Produk terakhir Memerintahkan
 Last status can\'t be unassigned from state.,Status terakhir dapat \ 't belum ditetapkan dari negara.
 Length,Panjangnya
-Link to the New Order,Link ke Orde Baru
-Link to the Previous Order,Link ke Orde Sebelumnya
+Link to the New Order,Link ke Order Baru
+Link to the Previous Order,Link ke Order Sebelumnya
 Logo for HTML Print View,Logo untuk HTML Cetak View
 "Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo untuk dokumen HTML saja. Jika kosong, default akan digunakan. <br /> (Jpeg, gif, png)"
 Logo for PDF Print-outs (200x50),Logo untuk PDF Print-out (200x50)
@@ -375,12 +375,12 @@ New Invoice and Shipment for Order #%s,Faktur baru dan Pengiriman Order #%s
 New Invoice for Guest,Faktur baru untuk Guest
 New Invoice for Order #%s,Faktur baru untuk Pesanan #%s
 New Order,Pesanan Baru
-New Order Confirmation Email Sender,Orde Baru Konfirmasi Email Sender
+New Order Confirmation Email Sender,Order Baru Konfirmasi Email Sender
 New Order Confirmation Template,New Template Konfirmasi Pesanan
 New Order Confirmation Template for Guest,New Template Konfirmasi Pesanan untuk Tamu
-New Order RSS,Orde Baru RSS
+New Order RSS,Order Baru RSS
 New Order Status,New Status Pesanan
-New Order for Guest,Orde Baru untuk Tamu
+New Order for Guest,Order Baru untuk Tamu
 New Shipment,Pengiriman baru
 New Shipment for Guest,Pengiriman baru untuk Guest
 New Shipment for Order #%s,Pengiriman baru untuk Pesanan #%s
@@ -596,7 +596,7 @@ Related Orders,Pesanan Terkait
 Remove,Menghapus
 Remove Coupon Code,Hapus Kode Kupon
 Remove tracking number,Hapus nomor pelacakan
-Reorder,Menyusun ulang
+Reorder,Pesan Kembali
 Retrieve credit memo info,Mengambil info memo kredit
 Retrieve credit memo information,Mengambil informasi memo kredit
 Retrieve credit memo list,Ambil daftar memo kredit
@@ -623,14 +623,14 @@ Sales Emails,Penjualan Email
 Sales Emails Section,Penjualan Email Bagian
 Sales Invoice Print View,Penjualan Faktur Cetak View
 Sales Items,Penjualan Produk
-Sales Order Print View,Orde penjualan Cetak View
+Sales Order Print View,Order penjualan Cetak View
 Sales Section,Penjualan Bagian
 Sales Shipment Print View,Penjualan Pengiriman Cetak View
 Sales Shipping,Penjualan Pengiriman
 Sales Tax,Pajak Penjualan
 Sales Total,Penjualan total
 Same As Billing Address,Sama Seperti Penagihan Alamat
-Save Order Address,Simpan Orde Alamat
+Save Order Address,Simpan Order Alamat
 Save Status,Kirimkan Status
 Save Status Assignment,Kirimkan Status Tugas
 Save in address book,Simpan dalam buku alamat
@@ -651,7 +651,7 @@ Send Invoice Email Copy To,Kirim Faktur Copy Email Untuk
 Send Order Comment Email Copy To,Kirim Pesanan Copy Komentar Email Untuk
 Send Order Comments Email Copy Method,Kirim Pesanan Komentar Email Cara Copy
 Send Order Email,Kirim Pesanan Email
-Send Order Email Copy Method,Kirim Orde Email Cara Copy
+Send Order Email Copy Method,Kirim Order Email Cara Copy
 Send Order Email Copy To,Kirim Pesanan Copy Email Untuk
 Send Sales Emails,Kirim Email Penjualan
 Send Shipment Comment Email Copy To,Kirim Pengiriman Copy Komentar Email Untuk
@@ -732,7 +732,7 @@ Tax,Pajak
 Tax Amount,Jumlah pajak
 Tax Percent,Persen Pajak
 Telephone,Telepon
-"The Order State ""%s"" must not be set manually.","Orde Negara ""%s"" tidak harus diatur secara manual."
+"The Order State ""%s"" must not be set manually.","Order Negara ""%s"" tidak harus diatur secara manual."
 The address total model should be extended from Mage_Sales_Model_Quote_Address_Total_Abstract.,Alamat Total Model harus diperluas dari Mage_Sales_Model_Quote_Address_Total_Abstract.
 "The billing agreement ""%s"" has been canceled.","Perjanjian penagihan ""%s"" telah dibatalkan."
 "The billing agreement ""%s"" has been created.","Perjanjian penagihan ""%s"" telah dibuat."
@@ -844,8 +844,8 @@ Validate Each Address Separately in Multi-address Checkout,Validasi Setiap Alama
 Value,Nilai
 View,Pandangan
 View All,Lihat Semua
-View Another Order,Lihat Orde lain
-View Order,Lihat Orde
+View Another Order,Lihat Order lain
+View Order,Lihat Pesanan
 Visible on Frontend,Terlihat pada Frontend
 Void,Kekosongan
 Void invoice,Faktur Void
