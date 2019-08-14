@@ -6,7 +6,7 @@
 '%value%' appears to be a local network name but local network names are not allowed,%value%' tampaknya menjadi nama jaringan lokal tetapi nama jaringan lokal tidak diizinkan
 "'%value%' appears to be an IP address, but IP addresses are not allowed","%value%' tampaknya menjadi alamat IP, tapi alamat IP tidak diizinkan"
 '%value%' does not appear to be a valid local network name,%value%' tidak muncul untuk menjadi nama jaringan lokal yang valid
-* Required Fields,* Bidang Yang Harus Diisi
+* Required Fields,* Wajib Diisi
 ALL GROUPS,SEMUA KELOMPOK
 Account Dashboard,Dashboard akun
 Account Information,Informasi Akun
@@ -128,16 +128,16 @@ Delete customer address,Hapus alamat pelanggan
 Deleted Stores,Toko dihapus
 Details,Detail
 Disabled,Cacat
-Edit,Mengedit
+Edit,Ubah
 Edit Account Info,Ubah Info Rekening
 Edit Account Information,Edit Informasi Akun
-Edit Address,Mengedit Alamat
-Edit Address Entry,Mengedit Alamat Entri
-"Edit Customer Group ""%s""","Mengedit Pelanggan Grup ""%s"""
-Edit Customer Groups,Grup mengedit Pelanggan
-Edit Customer's Address,Alamat mengedit Nasabah
-Edit Group,Mengedit Grup
-Edit Newsletters,Mengedit Newsletter
+Edit Address,Ubah Alamat
+Edit Address Entry,Ubah Alamat Entri
+"Edit Customer Group ""%s""","Ubah Pelanggan Grup ""%s"""
+Edit Customer Groups,Grup Ubah Pelanggan
+Edit Customer's Address,Alamat Ubah Nasabah
+Edit Group,Ubah Grup
+Edit Newsletters,Ubah Newsletter
 Email,Email
 Email Address,Alamat Email
 Email Sender,Email Sender
@@ -154,7 +154,7 @@ Forgot Your Password,Lupa Kata Sandi Anda
 Forgot Your Password?,Lupa Kata Sandi Anda?
 Forgot and Remind Email Sender,Lupa dan Ingatkan Email Sender
 Form Fields Before,Bentuk Fields Sebelum
-From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.,Dari My Dashboard Akun Anda memiliki kemampuan untuk melihat snapshot dari aktivitas akun baru Anda dan memperbarui informasi account Anda. Pilih link di bawah ini untuk melihat atau mengedit informasi.
+From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.,Dari My Dashboard Akun Anda memiliki kemampuan untuk melihat snapshot dari aktivitas akun baru Anda dan memperbarui informasi account Anda. Pilih link di bawah ini untuk melihat atau Ubah informasi.
 Gender,Jenis kelamin
 Gender is required.,Jenis Kelamin diperlukan.
 General Subscription,Berlangganan Umum
