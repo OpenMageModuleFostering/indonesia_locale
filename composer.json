@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Indonesia_Locale",
+    "type": "magento-module",
+    "license": "open-source",
+    "homepage": "",
+    "description": "Indonesia_Locale",
+    "authors": [
+    {
+        "name": "Ansyori",
+        "email": "ansyori@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
